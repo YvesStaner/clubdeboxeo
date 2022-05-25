@@ -1,0 +1,77 @@
+
+*{
+   
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body{
+    background-image: url("img/mike.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+ul{
+    background-color:rgba(255,255,255,0.3);
+    padding: 10px 0px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    margin-top: -50px;
+    
+}
+
+li{
+    display: inline-block;
+    margin: 0px 20px;
+    font-size: 20px;
+   } 
+    
+
+h1{
+    
+    text-align: center;
+    margin-top: 50px;
+    color: red
+}
+  
+
+iframe{
+    margin: 80px;
+    
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 20px;
+}
+
+img {
+    width:70%;
+}
+
+#l1{
+    width: 35%;
+}
+
+footer {
+    background-color:rgba(255,255,255,0.3);
+}
+
+iframe{
+    width: 17%;
+    height: 300px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
